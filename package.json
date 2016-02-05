@@ -1,0 +1,10 @@
+{
+  "name": "language-php",
+  "version": "0.1.0",
+  "description": "PHP language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-php.git"
+  },
+  "license": "MIT"
+}
